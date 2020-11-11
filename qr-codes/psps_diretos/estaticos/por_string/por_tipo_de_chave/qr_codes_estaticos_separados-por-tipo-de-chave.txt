@@ -6,8 +6,8 @@
 - 83933592011 (Sicoob)
 
 00020126420014br.gov.bcb.pix0111839335920110205IWXFA520400005303986540530.975802BR5916Anderson Martins6008Brasilia610971820-40262290525NPHV5403791616040706409116304C59F
-
 ---------------------------------
+
 # chave EVP
 - f92a48a4-c4bf-4aac-b84a-bb8e9e303534 (Banco do Estado do Rio Grande do Sul S.A)
 
@@ -18,6 +18,11 @@
 =================================
             indireto
 =================================
+# chave CPF
+
+00020101021126330014br.gov.bcb.pix0111012878075425204000053039865402155802BR5915Augusto Diegues6008BRASILIA62070503***63049160
+---------------------------------
+
 # chave EVP
 - 1d808413-270f-4691-a0b9-ec7b03f7d31f (Coop de Cred, Poup e Inv Campos Gerais)
 
