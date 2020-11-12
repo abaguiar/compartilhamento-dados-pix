@@ -15,6 +15,9 @@ ITI << Woop Sicredi
 E8146628620201112162500sjOJnQt1Z
 // qr code estatico chave phone
 sucesso
+ITI >> Woop Sicredi
+D17192451202011121653174F3FC26EC
+* error *
 ---------------------------------
 ITI << Sicredi
 E9158698220201112151604YgeQ6rIry
