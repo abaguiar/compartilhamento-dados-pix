@@ -1,7 +1,6 @@
 | nome                 |      Banco      |
 | -------------------- | :-------------: |
-| Adriana Dias         |    Santander    |
-| Alan Bolinelli       |      Inter      |
+| Adriana Dias         |    Santander         |
 | Alexandre Mota       |      Itau       |
 | Amanda Bernardini    |       C6        |
 | André Corrêa         |    Bradesco     |
